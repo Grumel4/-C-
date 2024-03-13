@@ -1,0 +1,9 @@
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp1.1\Zadanie_3.deps.json
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp1.1\Zadanie_3.runtimeconfig.json
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp1.1\Zadanie_3.runtimeconfig.dev.json
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp1.1\Zadanie_3.dll
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp1.1\Zadanie_3.pdb
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp1.1\Zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp1.1\Zadanie_3.AssemblyInfo.cs
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp1.1\Zadanie_3.dll
+C:\Users\Baggster\source\repos\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp1.1\Zadanie_3.pdb
