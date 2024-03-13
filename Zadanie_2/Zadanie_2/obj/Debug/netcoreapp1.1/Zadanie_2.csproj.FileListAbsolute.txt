@@ -1,0 +1,10 @@
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\bin\Debug\netcoreapp1.1\Zadanie_2.deps.json
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\bin\Debug\netcoreapp1.1\Zadanie_2.runtimeconfig.json
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\bin\Debug\netcoreapp1.1\Zadanie_2.runtimeconfig.dev.json
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\bin\Debug\netcoreapp1.1\Zadanie_2.dll
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\bin\Debug\netcoreapp1.1\Zadanie_2.pdb
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\obj\Debug\netcoreapp1.1\Zadanie_2.csprojAssemblyReference.cache
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\obj\Debug\netcoreapp1.1\Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\obj\Debug\netcoreapp1.1\Zadanie_2.AssemblyInfo.cs
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\obj\Debug\netcoreapp1.1\Zadanie_2.dll
+C:\Users\Baggster\source\repos\Zadanie_2\Zadanie_2\obj\Debug\netcoreapp1.1\Zadanie_2.pdb
